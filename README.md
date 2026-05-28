@@ -15,7 +15,7 @@ year={2026},
 }
 ```
 
-This code is released under the MIT License. See LICENSE for details.
+This code is released under the MIT License. See `LICENSE` for details.
 
 ## Installation
 
