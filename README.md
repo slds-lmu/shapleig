@@ -1,17 +1,18 @@
 
 # ShaplEIG: Bayesian Experimental Design for Shapley Value Estimation
 
-This repository contains the implementation of: **"ShaplEIG: Bayesian Experimental Design for Shapley Value Estimation"**.
+This repository is the research codebase accompanying the paper **“ShaplEIG: Bayesian Experimental Design for Shapley Value Estimation.”** It contains the implementation and experiments used in the paper and is provided primarily for reproducibility. For applying ShaplEIG in practice, please use the maintained implementation in the [`shapiq` package](https://shapiq.readthedocs.io/en/stable/generated/shapiq.approximator.ShaplEIG.html#shapiq-approximator-shapleig).
 
 For citations, please use the following BibTeX:
 
 ```bibtex
 @inproceedings{
-anonymous2026textttshapleig,
+rundel2026textttshapleig,
 title={\${\textbackslash}texttt\{Shapl{EIG}\}\$: Bayesian Experimental Design for Shapley Value Estimation},
-author={David Rundel, Fabian Fumagalli, Maximilian Muschalik, Bernd Bischl, Matthias Feurer},
+author={David Rundel and Fabian Fumagalli and Maximilian Muschalik and Bernd Bischl and Matthias Feurer},
 booktitle={Forty-third International Conference on Machine Learning},
 year={2026},
+url={https://openreview.net/forum?id=ub9PwBtHqD}
 }
 ```
 
